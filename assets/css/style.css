@@ -642,6 +642,7 @@ section {
 }
 
 .services .icon-box {
+  width: 400px;
   padding: 30px;
   position: relative;
   overflow: hidden;
